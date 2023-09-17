@@ -4,7 +4,7 @@ The goal of this project is to create a mobile streaming application using React
 
 # Interface example
 
--List of films
+-List of films :
 
 ![image](https://github.com/Ennia-Fahd/MoviesApp-ReactNative/assets/92646945/58ae9eeb-81ee-47d6-9498-45b0d4c9dbac)
 
